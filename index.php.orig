@@ -2,7 +2,11 @@
 	<head>
 		<title></title>
 	</head>
+<<<<<<< HEAD
+	<body>aa
+=======
 	<body>bbb
+>>>>>>> funzione2
 		Ciao come va?
 	</body>
 </html>
